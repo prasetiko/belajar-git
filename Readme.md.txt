@@ -1,1 +1,1 @@
-Ini repository untuk workshop
+Ini repository untuk workshop di jurusan teknik informatika
